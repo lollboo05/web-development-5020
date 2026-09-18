@@ -76,6 +76,20 @@ Browser Developer Tools Testing
 
 Browser Developer Tools were used to test the website at different screen sizes.
 
+## Responsive Testing Evidence
+
+### Desktop View
+
+![Desktop View](images/desktop.png)
+
+### Tablet View
+
+![Tablet View](images/tablet.png)
+
+### Mobile View
+
+![Mobile View](images/mobile.png)
+
 The website was tested using:
 
 - Desktop screen size
